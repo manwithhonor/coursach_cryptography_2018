@@ -1,0 +1,7 @@
+/home/skotti/projects/server/build/CMakeFiles/install.dir
+/home/skotti/projects/server/build/CMakeFiles/list_install_components.dir
+/home/skotti/projects/server/build/CMakeFiles/rebuild_cache.dir
+/home/skotti/projects/server/build/CMakeFiles/server.dir
+/home/skotti/projects/server/build/CMakeFiles/install/strip.dir
+/home/skotti/projects/server/build/CMakeFiles/install/local.dir
+/home/skotti/projects/server/build/CMakeFiles/edit_cache.dir
